@@ -1,0 +1,21 @@
+.naam{font-size:36px;font-weight:bold;text-align:center;margin-bottom:20px;}
+.varnan-chota{text-align:center;margin-bottom:15px;}
+img{max-width:100%;;height:auto;width:500px;display:block;margin:0 auto;}
+.na{text-align:center;margin-bottom:25px;}
+.bc{font-size:21px;text-align:center;margin-bottom:20px;font-weight:bold;}
+.tribute-info > div {padding-left:0;
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 8px;margin-left:250px;margin-right:180px;
+}
+.tribute-info > div::before {
+  content: "• ";
+  color: #2c3e50;
+  font-weight: bold;
+  font-size: 18px;}
+  .quote,.credit{font-style:italic;text-align:center}
+  .wiki{font-weight:bold;text-align:center}
+  .a{a:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
